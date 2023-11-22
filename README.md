@@ -19,4 +19,6 @@ Maze Agent Training
 
 https://github.com/cetorres/reinforcement_learning_maze_agent/assets/533661/512725b3-00bb-4e2c-8ddc-40fad8bb1fa8
 
+## Report
 
+[Carlos_Torres_Homework1_Report_Paper.pdf](Carlos_Torres_Homework1_Report_Paper.pdf)
