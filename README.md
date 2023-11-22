@@ -17,4 +17,6 @@ Maze Agent Training
 
 ## Demo
 
-[training_video.mp4](training_video.mp4)
+https://github.com/cetorres/reinforcement_learning_maze_agent/assets/533661/512725b3-00bb-4e2c-8ddc-40fad8bb1fa8
+
+
