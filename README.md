@@ -17,4 +17,4 @@ Maze Agent Training
 
 ## Demo
 
-![Demo](training_video.mp4)
+[training_video.mp4](training_video.mp4)
